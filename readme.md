@@ -80,8 +80,16 @@ Execute the Python script to generate all the visualizations. A single plot wind
 ```bash
 python plots.py
 ```
+#### Step 1
 ![Step 1](https://github.com/Tsvietukhina/air-quality-viz/blob/main/step_1.png)
-
+#### Step 2
+![Step 2](https://github.com/Tsvietukhina/air-quality-viz/blob/main/step_2_Paris.png)
+#### Step 3
+![Step 3](https://github.com/Tsvietukhina/air-quality-viz/blob/main/step_3_Paris-London.png)
+#### Step 4
+![Step 4](https://github.com/Tsvietukhina/air-quality-viz/blob/main/step_41.png)
+#### Step 5
+![Step 5](https://github.com/Tsvietukhina/air-quality-viz/blob/main/Step_5.png)
 
 ## 🔍 Key Findings (Visualization Insights)
 The analysis performed in plots.py generated several key visual insights:
