@@ -9,7 +9,7 @@ This project serves as a foundational portfolio piece demonstrating core data an
 ## 📊 Dataset Description
 
 * **File Name:** `air_quality_no2.csv`
-* **Description:** The dataset contains hourly measurements of **Nitrogen Dioxide Nitrogen Dioxide ** concentration (in $\mu g/m^3$) collected from various air quality monitoring stations across Europe.
+* **Description:** The dataset contains hourly measurements of Nitrogen Dioxide concentration collected from various air quality monitoring stations across Europe.
 * **Key Columns:**
     * `datetime`: The time index for the measurements.
     * `station_paris`: Nitrogen Dioxide concentration at the Paris station.
@@ -122,7 +122,7 @@ The plots.py script focuses on Exploratory Data Analysis (EDA) and visualization
 ## 🙏 Acknowledgments
 
 - European Environment Agency (EEA) / AirBase: For providing the foundational air quality measurement data.
-- Open Data Portal of the respective cities (Paris, London, etc.): For curating and publishing the localized NO$_{2}$ concentration readings.
+- Open Data Portal of the respective cities (Paris, London, etc.): For curating and publishing the localized Nitrogen Dioxide concentration readings.
 - Pandas & Matplotlib Teams: For the powerful Python libraries essential for data manipulation and visualization.
 - Open-source community
 
