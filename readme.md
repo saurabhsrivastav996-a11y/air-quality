@@ -80,6 +80,8 @@ Execute the Python script to generate all the visualizations. A single plot wind
 ```bash
 python plots.py
 ```
+![Step 1](https://github.com/Tsvietukhina/air-quality-viz/blob/main/step_1.png)
+
 
 ## 🔍 Key Findings (Visualization Insights)
 The analysis performed in plots.py generated several key visual insights:
